@@ -1,0 +1,17 @@
+{
+    "name": "itsromack/ccs06-login-reg",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Romack Natividad",
+            "email": "natividad.romack@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
